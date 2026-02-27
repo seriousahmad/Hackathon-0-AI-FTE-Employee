@@ -1,0 +1,1 @@
+a reminder to drive slow and with car lamps switched on at all times. use vipers whenever it starts drizzling. keep a couple windows slightly open to let out vapor build-up.

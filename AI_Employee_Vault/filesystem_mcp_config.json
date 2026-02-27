@@ -1,0 +1,52 @@
+{
+  "name": "filesystem",
+  "description": "File system operations for AI Employee vault",
+  "tools": [
+    {
+      "name": "read_file",
+      "description": "Read a file from the vault",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "path": {
+            "type": "string",
+            "description": "Path to the file to read"
+          }
+        },
+        "required": ["path"]
+      }
+    },
+    {
+      "name": "list_files",
+      "description": "List files in a directory",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "directory": {
+            "type": "string",
+            "description": "Directory to list files from"
+          }
+        },
+        "required": ["directory"]
+      }
+    },
+    {
+      "name": "write_file",
+      "description": "Write content to a file in the vault",
+      "input_schema": {
+        "type": "object",
+        "properties": {
+          "path": {
+            "type": "string",
+            "description": "Path to the file to write"
+          },
+          "content": {
+            "type": "string",
+            "description": "Content to write to the file"
+          }
+        },
+        "required": ["path", "content"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+2026-02-20 18:44:12,286 - INFO - Initialized DropFolderHandler with vault: C:\Hackathon-0-AI-FTE-Employee\AI_Employee_Vault
+2026-02-20 18:44:12,288 - INFO - File watcher started. Monitoring: C:\Hackathon-0-AI-FTE-Employee\AI_Employee_Vault\Drop_Folder
+2026-02-20 18:44:12,290 - INFO - Press Ctrl+C to stop the watcher
+2026-02-20 18:45:56,856 - INFO - New file detected: safe travels.md
+2026-02-20 18:45:56,954 - INFO - Created action file: FILE_ACTION_20260220_184556_safe travels.md.md
+2026-02-20 18:45:56,992 - INFO - File modified: safe travels.md
+2026-02-20 18:45:57,037 - INFO - Created action file: FILE_ACTION_20260220_184557_safe travels.md.md
+2026-02-20 19:17:50,888 - INFO - File watcher stopped by user
